@@ -1,4 +1,4 @@
-# web2-Project-EELU | User Management System (A Simple PHP Web Dynamic APP)
+# WEB2-PROJECT-EELU | User Management System (A Simple PHP Web Dynamic APP)
 
 ## Project Overview
 
