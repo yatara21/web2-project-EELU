@@ -44,8 +44,6 @@ The User Management System is a web application designed to provide a simple, ef
 
 #### Database Class (`db_config.php`)
 - Manages database connection
-- Provides error handling
-- Ensures secure connection management
 
 #### User Manager (`user.php`)
 Supports CRUD operations:
