@@ -71,7 +71,7 @@ Features:
    - Edit user information
    - Delete user records
    - Responsive table display
-==
+
 ## Technologies Used
 - Backend: PHP
 - Database: MySQL
