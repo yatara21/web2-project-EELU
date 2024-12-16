@@ -48,6 +48,10 @@ $users = $userManager->getAllUsers();
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="logo-container">
+        <img src="final EELU logo-01.png" alt="EELU-logo" class="logo">
+    </div>
+
     <div class="container">
         <h1>User Management System</h1>
         
